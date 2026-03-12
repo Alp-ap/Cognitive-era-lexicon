@@ -1,6 +1,6 @@
 # The Lexicon
 ### A New Vocabulary for the Cognitive Era
-*Co-authored by Al Fontenot and Claude*
+*Co-authored by a Human and Claude*
 *With critical review by Gemini 3.1 Pro*
 
 ---
