@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this lexicon, please cite it as below."
+authors:
+- family-names: "Porco"
+  given-names: "Albert"
+title: "The Lexicon: A New Vocabulary for the Cognitive Era"
+version: 0.9.0
+date-released: 2026-03-11
+url: "https://github.com/Alp-ap/Cognitive-era-lexicon"
